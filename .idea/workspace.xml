@@ -21,6 +21,7 @@
             <option name="modeId" value="Ask" />
             <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="auto" />
+            <option name="status" value="Completed" />
             <option name="targetType" value="LOCAL" />
           </session>
         </option>
@@ -33,6 +34,12 @@
       <entry key="_C:/Users/Administrator/Documents/JenkinsTesting" value="3ISxnFuZalRzHCES9ZbUpEcXlIR" />
     </persistenceIdMap>
   </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -44,6 +51,20 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3ISxnFuZalRzHCES9ZbUpEcXlIR" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Ask" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787771935565</updated>
       <workItem from="1787771937158" duration="154000" />
-      <workItem from="1787772109895" duration="1102000" />
+      <workItem from="1787772109895" duration="1438000" />
     </task>
     <servers />
   </component>
